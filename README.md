@@ -22,7 +22,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-#Running JSON fake server
+## Running JSON fake server
 
 Run `npm install -g json-server` to install json server
 Start JSON Server by running `json-server --watch db.json`
